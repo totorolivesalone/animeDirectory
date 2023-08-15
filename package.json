@@ -2,8 +2,9 @@
   "name": "animeproject",
   "version": "0.1.0",
   "private": true,
-  "predeploy":"npm run build",
-  "deploy":"gh-pages -d build",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "homepage": "https://totorolivesalone.github.io/animeDirectory/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
