@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/animeDirectory/static/js/main.c33b93a4.js",
+    "index.html": "/animeDirectory/index.html",
+    "main.c33b93a4.js.map": "/animeDirectory/static/js/main.c33b93a4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c33b93a4.js"
+  ]
+}
