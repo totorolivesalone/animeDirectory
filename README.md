@@ -10,6 +10,8 @@ This is a web-based anime directory. Your very own pokedex for all anime!
 
 The project is a React-based app. Jikan REST API is used for fetching information.Additionally, libraries like  'styled components' and 'react-router-dom' were used for styling and routing respectively.
 
+## Issues 
+The website isn't mobile-responsive. Working on it.
 ### `npm start`
 
 Runs the app in the development mode.\
